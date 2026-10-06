@@ -122,12 +122,9 @@ repositories are private.
 ### 🖥️ Server & Production
 - Website deployment
 - Hosting configuration
-- DNS management
-- SSL configuration
 - Database management
 - Performance optimization
 - Production troubleshooting
-- Security and malware investigation
 
 ---
 
